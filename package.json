@@ -1,0 +1,18 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "main": "newFile.js",
+  "scripts": {
+    "back": "nodemon newFile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
